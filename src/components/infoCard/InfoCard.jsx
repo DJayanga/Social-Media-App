@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./InfoCard.css";
 import UilPen from "@iconscout/react-unicons/icons/uil-pen";
 import ProfileModal from "../profileModal/ProfileModal";
